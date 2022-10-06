@@ -1,0 +1,22 @@
+#tite {
+  text-align: center;
+}
+.title {
+  text-align: center;
+}
+#tribute-info {
+  text-align: center;
+}
+img {
+  max-width: 60%;
+  height: auto;
+  text-align: center;
+}
+#img-div {
+  text-align: center;
+}
+#img-caption { 
+  color: #FFD770;
+  text-align: center;
+  text-size: 25px;
+}
